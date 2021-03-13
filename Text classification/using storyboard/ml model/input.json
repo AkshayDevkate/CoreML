@@ -1,0 +1,35 @@
+[
+    {
+        "text": "Fatigue, shortness of breath ",
+        "label": "red blood cell abnormal count"
+    }, {
+        "text": "Dizziness, weakness, light headache, increased heart rate, pale skin.",
+        "label": "low red blood cell count"
+    }, {
+        "text": "joint pain, tenderness in palm of hands soles or feet, itching skin particularly after shower or bath, sleep disturbance.",
+        "label": "High red blood cell count"
+    }, 
+ 	{
+        "text": "low grade fever, skin abscesses, mouth sores, swollen gums and symptoms suggestive of infection of skin, perirectical area, mouth or other area of body.",
+        "label": "WBC low neutrophil"
+    }, {
+        "text": "Abdominal pain and cramping, itching, unexplained weight loss, fatigue, fever, malaise or general feeling of being unwell",
+        "label": "WBC high basophil"
+    }, {
+        "text": "Rash, itching, Dirrhea (in case of parasite infection), Asthama, runny nose, particularly associated with allergies.",
+        "label": "WBC high eosinophil"
+    }, {
+        "text": "Weakness, fatigue, bleeding from gums or nose, weight loss, bruises, skin lesions, skin discoloration, swollen glands. Vision changes including blurry vision, vision loss, headache, dizziness or vertigo, changes in mental status. ",
+        "label": "WBC Plasma common"
+    }, {
+        "text": "Fatigue low energy and weakness.Nausea, vomiting, weight loss, Unexplained fever, Increased infection, Weakness or numbness in the limbs, Skin that bruises or bleeds easily, Reduced appetite and increased thirst, Confusion or Fogginess.",
+        "label": "WBC high Plasma"
+    }, {
+        "text": "Red, purple or brown bruises, which are called purpura; a rash with small red or purple dots called petechiae; nosebleeds; bleeding gums; bleeding from wounds that lasts for a prolonged period or doesn’t stop on its own. heavy menstrual bleeding, bleeding from rectum, blood in stool, blood in your urine, bloody or very dark vomit.  ",
+        "label": "Low platelets count"
+    },
+{
+        "text": "Headache, Dizziness or light headedness, chest pain, weakness, Numbness or tingling of the hands and feet.",
+        "label": "High platelets count"
+    }
+]
