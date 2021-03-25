@@ -10,8 +10,10 @@ Pre requisite
 Xcode
 
 
+
+Text classificaion using storyboardUI
 ![Output](https://github.com/AkshayDevkate/CoreML/blob/main/Text%20classification/using%20storyboard/output/output.gif)
 
-
+Final
 ![Output](https://github.com/AkshayDevkate/CoreML/blob/main/Final/Final.gif)
 
