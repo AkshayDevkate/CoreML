@@ -19,17 +19,25 @@ class ViewController: UIViewController {
    
     @IBAction func didTapped() {
         
+        if TextInput.text == ""{
+            
+            let alert = UIAlertController(title: "Alert", message: "Please enter diagnostic details", preferredStyle: .alert)
+            alert.addAction(UIAlertAction(title: NSLocalizedString("OK", comment: "Default action"), style: .default, handler: { _ in
+            NSLog("The \"OK\" alert occured.")
+            }))
+            self.present(alert, animated: true, completion: nil)
+        }
+        else
+        {
           performSegue(withIdentifier: "InputVCToDisplayVC", sender: self)
-        
-      }
+        }
+        }
     
     
     @IBAction func clear(_ sender: Any) {
         
-        self.TextInput.text = " "
+        self.TextInput.text = ""
     }
-    
-    
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
                 if (segue.identifier == "InputVCToDisplayVC"){

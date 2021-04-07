@@ -26,10 +26,7 @@ class PredictViewController: UIViewController {
         return model
     }()
     
-  
-    
-    
-    
+
     
     override func viewDidLoad() {
         super.viewDidLoad()

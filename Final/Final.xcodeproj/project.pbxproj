@@ -15,6 +15,9 @@
 		C7344CD7260BB8A20074A1EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7344CD5260BB8A20074A1EF /* LaunchScreen.storyboard */; };
 		C7344CE2260BB8A30074A1EF /* FinalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7344CE1260BB8A30074A1EF /* FinalTests.swift */; };
 		C7344CED260BB8A30074A1EF /* FinalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7344CEC260BB8A30074A1EF /* FinalUITests.swift */; };
+		C76D9E72261DC70F00A9A3EE /* NewTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D9E71261DC70F00A9A3EE /* NewTableViewController.swift */; };
+		C7809884261DDFD600D85EC1 /* FirstTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7809883261DDFD600D85EC1 /* FirstTableViewCell.swift */; };
+		C7809886261DE68400D85EC1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7809885261DE68400D85EC1 /* DetailViewController.swift */; };
 		C7E73EBE260BCCED000D8022 /* PredictViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E73EBD260BCCED000D8022 /* PredictViewController.swift */; };
 		C7E73EC1260BD978000D8022 /* thesistest.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = C7E73EC0260BD978000D8022 /* thesistest.mlmodel */; };
 		C7E73EC3260C84DE000D8022 /* SecondNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E73EC2260C84DE000D8022 /* SecondNavigationController.swift */; };
@@ -52,6 +55,9 @@
 		C7344CE8260BB8A30074A1EF /* FinalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7344CEC260BB8A30074A1EF /* FinalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalUITests.swift; sourceTree = "<group>"; };
 		C7344CEE260BB8A30074A1EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C76D9E71261DC70F00A9A3EE /* NewTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTableViewController.swift; sourceTree = "<group>"; };
+		C7809883261DDFD600D85EC1 /* FirstTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstTableViewCell.swift; sourceTree = "<group>"; };
+		C7809885261DE68400D85EC1 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		C7E73EBD260BCCED000D8022 /* PredictViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredictViewController.swift; sourceTree = "<group>"; };
 		C7E73EC0260BD978000D8022 /* thesistest.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = thesistest.mlmodel; path = "../../../../Text classification/using storyboard/ml model/thesistest.mlmodel"; sourceTree = "<group>"; };
 		C7E73EC2260C84DE000D8022 /* SecondNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondNavigationController.swift; sourceTree = "<group>"; };
@@ -85,6 +91,7 @@
 		C7344CBE260BB8A10074A1EF = {
 			isa = PBXGroup;
 			children = (
+				C76D9E71261DC70F00A9A3EE /* NewTableViewController.swift */,
 				C7344CC9260BB8A10074A1EF /* Final */,
 				C7344CE0260BB8A30074A1EF /* FinalTests */,
 				C7344CEB260BB8A30074A1EF /* FinalUITests */,
@@ -109,6 +116,8 @@
 				C7344CCA260BB8A10074A1EF /* AppDelegate.swift */,
 				C7344CCC260BB8A10074A1EF /* SceneDelegate.swift */,
 				C7344CD0260BB8A10074A1EF /* Main.storyboard */,
+				C7809883261DDFD600D85EC1 /* FirstTableViewCell.swift */,
+				C7809885261DE68400D85EC1 /* DetailViewController.swift */,
 				C7E73EC0260BD978000D8022 /* thesistest.mlmodel */,
 				C7344CD3260BB8A20074A1EF /* Assets.xcassets */,
 				C7344CD5260BB8A20074A1EF /* LaunchScreen.storyboard */,
@@ -276,11 +285,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7809886261DE68400D85EC1 /* DetailViewController.swift in Sources */,
+				C76D9E72261DC70F00A9A3EE /* NewTableViewController.swift in Sources */,
 				C7E73EC1260BD978000D8022 /* thesistest.mlmodel in Sources */,
 				C7E73EBE260BCCED000D8022 /* PredictViewController.swift in Sources */,
 				C7344CCF260BB8A10074A1EF /* ViewController.swift in Sources */,
 				C7E73EC3260C84DE000D8022 /* SecondNavigationController.swift in Sources */,
 				C7344CCB260BB8A10074A1EF /* AppDelegate.swift in Sources */,
+				C7809884261DDFD600D85EC1 /* FirstTableViewCell.swift in Sources */,
 				C7344CCD260BB8A10074A1EF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
