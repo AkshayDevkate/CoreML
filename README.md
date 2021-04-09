@@ -10,8 +10,7 @@
 
 
 
-Text classification - 
-
+## About
 This project is developed and documented for the purpose of masters thesis. The pull requests will not be merged until september end i.e, untill the defence for master thesis is done. :) Still i am always open for code reviews and improvements please contact from the about section. 
 
 ## Documentations on APP
@@ -26,7 +25,7 @@ This project is developed and documented for the purpose of masters thesis. The 
 ## License 
 This repository is released under MIT License. [Link](https://github.com/AkshayDevkate/CoreML/blob/main/LICENSE)
 
-## About
+## Info
 This project is part of master thesis. More information about the college and guidence will be uploaded soon :)
 
 Akshay Datta Devkate - devkatte.akshay98@gmail.com
