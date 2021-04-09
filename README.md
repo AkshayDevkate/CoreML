@@ -11,7 +11,7 @@
 
 
 ## About
-This project is developed and documented for the purpose of masters thesis. The pull requests will not be merged until september end i.e, untill the defence for master thesis is done. :) Still i am always open for code reviews and improvements please contact from the about section. 
+This project is developed and documented for the purpose of masters thesis. The pull requests will not be merged until september end i.e, untill the defence for master thesis is done. :) Still i am always open for code reviews and improvements please contact from the info section. 
 
 ## Documentations on APP
 
