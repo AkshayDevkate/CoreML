@@ -4,16 +4,29 @@
 
 Text classification - 
 
-A machine learning text classification model to measure the impact of dieseases on mast cells using symptoms as an input.
+This project is developed and documented for the purpose of masters thesis. The pull requests will not be merged until september end i.e, untill the defence for master thesis is done. :) Still i am always open for code reviews and improvements please contact from the about section. 
 
-Pre requisite 
-Xcode
-
+## Documentations on APP
 
 
-Text classificaion using storyboardUI
-![Output](https://github.com/AkshayDevkate/CoreML/blob/main/Text%20classification/using%20storyboard/output/output.gif)
+## Documentation on machien learning model
 
-Final
-![Output](https://github.com/AkshayDevkate/CoreML/blob/main/Final/Final.gif)
+
+## Documentation Literature 
+
+
+## License 
+This repository is released under MIT License. [Link](https://github.com/AkshayDevkate/CoreML/blob/main/LICENSE)
+
+## About
+This project is part of master thesis. More information about the college and guidence will be uploaded soon :)
+
+Akshay Datta Devkate - devkatte.akshay98@gmail.com
+
+
+
+
+
+
+
 
