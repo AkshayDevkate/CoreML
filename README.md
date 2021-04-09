@@ -2,6 +2,11 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 
+
+
+![Logo](https://github.com/AkshayDevkate/CoreML/blob/main/Final/Final/Assets.xcassets/App%20icon.imageset/applogo.png)
+
+
 Text classification - 
 
 This project is developed and documented for the purpose of masters thesis. The pull requests will not be merged until september end i.e, untill the defence for master thesis is done. :) Still i am always open for code reviews and improvements please contact from the about section. 
