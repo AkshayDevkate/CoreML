@@ -16,7 +16,7 @@ This project is developed and documented for the purpose of masters thesis. The 
 ## Documentations on APP
 
 
-## Documentation on machien learning model
+## Documentation on machine learning model
 
 
 ## Documentation Literature 
