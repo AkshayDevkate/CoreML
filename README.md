@@ -4,9 +4,9 @@
 
 
 
-(<p align="center">
+<p align="center">
   <img width="600" height="600" src="https://github.com/AkshayDevkate/CoreML/blob/main/Final/Final/Assets.xcassets/App%20icon.imageset/applogo.png">
-</p>)
+</p>
 
 
 
