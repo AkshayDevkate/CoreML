@@ -15,7 +15,9 @@ This project is developed and documented for the purpose of masters thesis. The 
 
 ## Documentations on APP
 
-Transfering data between the view controllers using performSegue() method [link](https://akshaydevkate.medium.com/transfer-data-between-the-viewcontroller-in-uikit-basic-step-by-step-guide-cc53368b852d)
+Transfering data between the view controllers using performSegue() method [link to documentation](https://akshaydevkate.medium.com/transfer-data-between-the-viewcontroller-in-uikit-basic-step-by-step-guide-cc53368b852d)
+
+Changing the name of view controllers [Link to documentaion]()https://akshaydevkate.medium.com/change-name-of-viewcontroller-in-storyboardui-d5c1acd22335
 
 ## Documentation on machine learning model
 
