@@ -13,7 +13,7 @@
 ## About
 This project is developed and documented for the purpose of masters thesis. The pull requests will not be merged until september end i.e, untill the defence for master thesis is done. :) Still i am always open for code reviews and improvements please contact from the info section. 
 
-## Documentations on APP
+## Documentations on iOS Application
 
 Transfering data between the view controllers using performSegue() method [link to documentation](https://akshaydevkate.medium.com/transfer-data-between-the-viewcontroller-in-uikit-basic-step-by-step-guide-cc53368b852d)
 
