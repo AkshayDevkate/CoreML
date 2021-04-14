@@ -15,9 +15,12 @@ This project is developed and documented for the purpose of masters thesis. The 
 
 ## Documentations on iOS Application
 
-Transfering data between the view controllers using performSegue() method [link to documentation](https://akshaydevkate.medium.com/transfer-data-between-the-viewcontroller-in-uikit-basic-step-by-step-guide-cc53368b852d)
-
-Changing the name of view controllers [Link to documentation](https://akshaydevkate.medium.com/change-name-of-viewcontroller-in-storyboardui-d5c1acd22335)
+| Function | Description | Link to blog | Output Gif|
+|-|-|-|-|
+| performSegue() | Transferig data between the view controllers | [link to documentation](https://akshaydevkate.medium.com/transfer-data-between-the-viewcontroller-in-uikit-basic-step-by-step-guide-cc53368b852d) | |
+| Changing the name using refactoring  | Changing the name of the view controller |  [Link to documentation](https://akshaydevkate.medium.com/change-name-of-viewcontroller-in-storyboardui-d5c1acd22335)| |
+| UIAlertController(title: ,message: )
+ AddAction() | Gving an alert when the user presses predict button with empty symptoms | [Link](https://akshaydevkate.medium.com/how-to-create-uialert-in-storyboard-ui-xcode-a021756db086) to Documentation | |
 
 ## Documentation on machine learning model
 
