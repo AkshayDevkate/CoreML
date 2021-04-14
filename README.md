@@ -15,6 +15,8 @@ This project is developed and documented for the purpose of masters thesis. The 
 
 ## Documentations on iOS Application
 
+The iOS applicatiopn is built using swift programming language and StoryboardUI 
+
 | Function | Description | Link to blog | Output Gif|
 |-|-|-|-|
 | performSegue() | Transferig data between the view controllers | [link to documentation](https://akshaydevkate.medium.com/transfer-data-between-the-viewcontroller-in-uikit-basic-step-by-step-guide-cc53368b852d) | |
