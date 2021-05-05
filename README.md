@@ -19,7 +19,7 @@ The iOS applicatiopn is built using swift programming language and StoryboardUI
 
 | Function | Description | Link to blog | Output Gif|
 |-|-|-|-|
-| performSegue() | Used in trnasfering the predicted output from one view controller to other | [Link to Documentation](https://akshaydevkate.medium.com/transfer-data-between-the-viewcontroller-in-uikit-basic-step-by-step-guide-cc53368b852d) | |
+| performSegue() | Used in trnasfering the predicted output from one view controller to other | [Link to Documentation](https://medium.com/nerd-for-tech/transfer-data-between-the-viewcontroller-in-uikit-basic-step-by-step-guide-cc53368b852d) | |
 | Changing the name using refactoring  | Changing the name of the view controller |  [Link to Documentation](https://medium.com/codex/change-name-of-viewcontroller-in-storyboardui-d5c1acd22335)| |
 | UIAlertController(title: ,message: ) & AddAction() | Gving an alert when the user presses predict button with empty symptoms | [Link to Documentation](https://akshaydevkate.medium.com/how-to-create-uialert-in-storyboard-ui-xcode-a021756db086)  | |
 | Connect Github+Xcode | For continues integration and updating code on GitHub repository| [Link to Documentation](https://akshaydevkate.medium.com/how-to-connect-github-and-xcode-499134c62eac)||
