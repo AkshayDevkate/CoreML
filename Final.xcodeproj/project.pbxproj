@@ -91,7 +91,6 @@
 		C7344CBE260BB8A10074A1EF = {
 			isa = PBXGroup;
 			children = (
-				C76D9E71261DC70F00A9A3EE /* NewTableViewController.swift */,
 				C7344CC9260BB8A10074A1EF /* Final */,
 				C7344CE0260BB8A30074A1EF /* FinalTests */,
 				C7344CEB260BB8A30074A1EF /* FinalUITests */,
@@ -118,6 +117,7 @@
 				C7344CD0260BB8A10074A1EF /* Main.storyboard */,
 				C7809883261DDFD600D85EC1 /* FirstTableViewCell.swift */,
 				C7809885261DE68400D85EC1 /* DetailViewController.swift */,
+				C76D9E71261DC70F00A9A3EE /* NewTableViewController.swift */,
 				C7E73EC0260BD978000D8022 /* thesistest.mlmodel */,
 				C7344CD3260BB8A20074A1EF /* Assets.xcassets */,
 				C7344CD5260BB8A20074A1EF /* LaunchScreen.storyboard */,
