@@ -42,11 +42,10 @@ The iOS applicatiopn is built using swift programming language and StoryboardUI
 This repository is released under MIT License. [Link](https://github.com/AkshayDevkate/CoreML/blob/main/LICENSE)
 
 ## Info
-This project is part of master thesis. More information about the college and guidence will be uploaded soon :)
 
-Akshay Datta Devkate - devkatte.akshay98@gmail.com
-
-
+Supervisor Professor : Dr. Rüdiger Buchkremer
+Developed by : Akshay Datta Devkate 
+Institute Name : FOM university of applied sciences, Essen, Germany.
 
 
 
