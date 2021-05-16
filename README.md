@@ -27,7 +27,7 @@ The iOS applicatiopn is built using swift programming language and StoryboardUI
 | UIAlertController(title: ,message: ) & AddAction() | Gving an alert when the user presses predict button with empty symptoms | [Link to Documentation](https://akshaydevkate.medium.com/how-to-create-uialert-in-storyboard-ui-xcode-a021756db086)  | |
 | Connect Github+Xcode | For continues integration and updating code on GitHub repository| [Link to Documentation](https://akshaydevkate.medium.com/how-to-connect-github-and-xcode-499134c62eac)||
 
-## Documentation on machine learning model
+## Documentation on model
 
 ### Text Classification Model
 1. Rule Based Text Classification model
