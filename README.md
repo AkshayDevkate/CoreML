@@ -26,6 +26,11 @@ The iOS applicatiopn is built using swift programming language and StoryboardUI
 
 ## Documentation on machine learning model
 
+### Text Classification Model
+1. Rule Based Text Classification model
+2. Machine learning based Text Classification Model
+3. Hybrid Text Classification Model
+
 
 ## Documentation Literature 
 
