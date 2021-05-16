@@ -13,6 +13,9 @@
 ## About
 Native iOS mobile application developed to evaluate the impact of dieseases on blood cells using symptoms as input in addition providing information on about variuos symptoms that may occur when there is sifunction in blood cells.
 
+### How it works 
+
+
 ## Documentations on iOS Application
 
 The iOS applicatiopn is built using swift programming language and StoryboardUI 
