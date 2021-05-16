@@ -11,7 +11,7 @@
 
 
 ## About
-This project is developed and documented for the purpose of masters thesis. The pull requests will not be merged until september end i.e, untill the defence for master thesis is done. :) Still i am always open for code reviews and improvements please contact from the info section. 
+Native iOS mobile application developed to evaluate the impact of dieseases on blood cells using symptoms as input in addition providing information on about variuos symptoms that may occur when there is sifunction in blood cells.
 
 ## Documentations on iOS Application
 
