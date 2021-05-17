@@ -54,11 +54,11 @@
                                 <rect key="frame" x="20" y="88" width="374" height="725"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g9T-tF-Frh">
-                                        <rect key="frame" x="103" y="389" width="46" height="58"/>
+                                        <rect key="frame" x="103" y="389" width="202" height="58"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="58" id="gxB-3e-WlP"/>
                                         </constraints>
-                                        <state key="normal" title="Button"/>
+                                        <state key="normal" title="Learn more about Blood Cells"/>
                                         <connections>
                                             <segue destination="8l6-Qw-ZDm" kind="show" id="pQF-bA-ujW"/>
                                         </connections>
