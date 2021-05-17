@@ -14,7 +14,7 @@
 Native iOS mobile application developed to evaluate the impact of dieseases on blood cells using symptoms as input in addition providing information on about variuos symptoms that may occur when there is sifunction in blood cells.
 
 ### How it works 
-
+The application accepts input in the form of text and predict which blood cell migh have affected.
 
 ## Documentations on iOS Application
 
