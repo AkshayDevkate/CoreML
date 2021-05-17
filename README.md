@@ -43,8 +43,7 @@ This repository is released under MIT License. [Link](https://github.com/AkshayD
 
 ## Info
 
-### Supervisor Professor : Dr. Rüdiger Buchkremer
-
+#### Supervisor Professor : [Dr. Rüdiger Buchkremer](https://github.com/buchkremer) 
 #### Developed by : Akshay Datta Devkate 
 #### Institute Name : FOM university of applied sciences, Essen, Germany.
 
