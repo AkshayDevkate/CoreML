@@ -22,9 +22,15 @@ class DetailViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         
-        DetailLabelone.text = name
+        switch name{
+            
+            // Write all cases here
+        case "Three" :
+            DetailLabelone.text = name
+        default:
+            DetailLabelone.text = ""
+        }
         
-        DetailLabelTwo.text = name
     }
     
 

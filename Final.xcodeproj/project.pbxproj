@@ -111,16 +111,14 @@
 		C7344CC9260BB8A10074A1EF /* Final */ = {
 			isa = PBXGroup;
 			children = (
+				C7F26E1D265938E30062C642 /* tab bar */,
 				C7E73EBF260BCD2B000D8022 /* ViewControllers */,
 				C7344CCA260BB8A10074A1EF /* AppDelegate.swift */,
 				C7344CCC260BB8A10074A1EF /* SceneDelegate.swift */,
-				C7344CD0260BB8A10074A1EF /* Main.storyboard */,
-				C7809883261DDFD600D85EC1 /* FirstTableViewCell.swift */,
-				C7809885261DE68400D85EC1 /* DetailViewController.swift */,
-				C76D9E71261DC70F00A9A3EE /* NewTableViewController.swift */,
 				C7E73EC0260BD978000D8022 /* thesistest.mlmodel */,
 				C7344CD3260BB8A20074A1EF /* Assets.xcassets */,
 				C7344CD5260BB8A20074A1EF /* LaunchScreen.storyboard */,
+				C7344CD0260BB8A10074A1EF /* Main.storyboard */,
 				C7344CD8260BB8A20074A1EF /* Info.plist */,
 			);
 			path = Final;
@@ -152,6 +150,16 @@
 				C7E73EBD260BCCED000D8022 /* PredictViewController.swift */,
 			);
 			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		C7F26E1D265938E30062C642 /* tab bar */ = {
+			isa = PBXGroup;
+			children = (
+				C7809883261DDFD600D85EC1 /* FirstTableViewCell.swift */,
+				C76D9E71261DC70F00A9A3EE /* NewTableViewController.swift */,
+				C7809885261DE68400D85EC1 /* DetailViewController.swift */,
+			);
+			path = "tab bar";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -217,7 +225,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
-				LastUpgradeCheck = 1130;
+				LastUpgradeCheck = 1250;
 				ORGANIZATIONNAME = "Akshay Devkate";
 				TargetAttributes = {
 					C7344CC6260BB8A10074A1EF = {
@@ -374,6 +382,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -434,6 +443,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;

@@ -10,7 +10,7 @@ import UIKit
 
 class NewTableViewController: UIViewController {
     
-    var name = ["White Blood Cell", "Red Blood Cell", "Platelets"]
+    var name = ["White Blood Cell", "Red Blood Cell", "Platelets - Thrombocytosis", "Platelets - Thromcythemia", "Platelets - Thrombocytopenia", "Four", "Five" , "Six" , "Seven"]
 
     @IBOutlet weak var tableView: UITableView!
     
