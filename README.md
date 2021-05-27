@@ -35,8 +35,13 @@ The iOS applicatiopn is built using swift programming language and StoryboardUI
 3. Hybrid Text Classification Model
 
 
-## Documentation Literature 
+## Blood Cells classification and its associated symptoms 
 
+| Blood Cell and Type | Problem | Disoarder |
+|-|-|-|
+| Platelets () | Elevated platelet count | Thermbocythemia |
+| Platelets () | Low platelet count | Thermbocytopenia |
+| Platelets () | platelets releasing its components | Thermbocytosis |
 
 ## License 
 This repository is released under MIT License. [Link](https://github.com/AkshayDevkate/CoreML/blob/main/LICENSE)
