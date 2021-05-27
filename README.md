@@ -37,7 +37,7 @@ The iOS applicatiopn is built using swift programming language and StoryboardUI
 
 ## Blood Cells classification and its associated symptoms 
 
-|  Disoarder | Problem | Blood Cell and Type |
+|  Disoarder | Problem | Affected blood cell and type |
 |-|-|-|
 |  Thermbocythemia | Elevated platelet count | Platelets (Thermbocyte) |
 |  Thermbocytopenia | Low platelet count | Platelets (Thermbocyte) |
