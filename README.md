@@ -37,11 +37,11 @@ The iOS applicatiopn is built using swift programming language and StoryboardUI
 
 ## Blood Cells classification and its associated symptoms 
 
-| Blood Cell and Type | Problem | Disoarder |
+|  Disoarder | Problem | Blood Cell and Type |
 |-|-|-|
-| Platelets () | Elevated platelet count | Thermbocythemia |
-| Platelets () | Low platelet count | Thermbocytopenia |
-| Platelets () | platelets releasing its components | Thermbocytosis |
+|  Thermbocythemia | Elevated platelet count | Platelets (Thermbocyte) |
+|  Thermbocytopenia | Low platelet count | Platelets (Thermbocyte) |
+|  Thermbocytosis |  platelets releasing its components | Platelets (Thermbocyte) |
 
 ## License 
 This repository is released under MIT License. [Link](https://github.com/AkshayDevkate/CoreML/blob/main/LICENSE)
