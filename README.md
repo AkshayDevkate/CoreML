@@ -42,6 +42,9 @@ The iOS applicatiopn is built using swift programming language and StoryboardUI
 |  Thermbocythemia | Elevated platelet count | Platelets (Thermbocyte) |
 |  Thermbocytopenia | Low platelet count | Platelets (Thermbocyte) |
 |  Thermbocytosis |  platelets releasing its components | Platelets (Thermbocyte) |
+|  Neutrophilia |  Elevated neutrophil count | Nutrophils |
+|  Neutropenia | Low nutrophil count | Nutrophils |
+|  Nutrphil activation syndrome |  Nutrophil releasing its components | Neutrophils |
 
 ## License 
 This repository is released under MIT License. [Link](https://github.com/AkshayDevkate/CoreML/blob/main/LICENSE)
